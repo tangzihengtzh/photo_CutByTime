@@ -1,3 +1,8 @@
+
+![(A8@G_FIL 3DEEWE(1{ XTI](https://github.com/user-attachments/assets/518040f4-0a35-41ca-8f99-31dcea77be7a)
+![QQ图片20240712140053](https://github.com/user-attachments/assets/5335b7d5-08fd-4054-ad2c-6ef4c781963d)
+![QQ图片20240712140057](https://github.com/user-attachments/assets/dc38ac2e-4a5d-4e1b-8944-e9cbf03e17a0)
+
 # 项目简介
 
 这是一个基于Qt的图像处理项目，使用OpenCV库进行图像处理。该项目提供了图像显示、缩略图生成、亮度计算以及图像合成等功能。
